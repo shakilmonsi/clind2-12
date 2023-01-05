@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "637f1dfe1ae33181bfed229a",
+    "category_id": 1,
+    "name": "Iphone",
+    "image": "https://i.ibb.co/31br8Cq/iphone.jpg"
+  },
+  {
+    "_id": "637f1dfe1ae33181bfed229b",
+    "category_id": 2,
+    "name": "OPPO",
+    "image": "https://i.ibb.co/jTqkDRv/oppo.webp"
+  },
+  {
+    "_id": "637f1dfe1ae33181bfed229c",
+    "category_id": 3,
+    "name": "VIVO",
+    "image": "https://i.ibb.co/p2vLkFv/vivo.jpg"
+  },
+  {
+    "_id": "637f1dfe1ae33181bfed229d",
+    "category_id": 4,
+    "name": "Xiaomi",
+    "image": "https://i.ibb.co/G07Djd0/xiaomi.png"
+  }
+]

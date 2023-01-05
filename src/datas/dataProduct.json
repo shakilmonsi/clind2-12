@@ -1,0 +1,98 @@
+[
+  {
+    "proId": 1,
+    "categoryName": "Iphone ",
+    "name": "Iphone 10",
+    "img": "https://cdn.motor1.com/images/mgl/9m9NR1/s3/2024-honda-prologue.jpg",
+    "location": "Uttara,Dhaka",
+    "originalPrice": 30900,
+    "resalePrice": 21000,
+    "usedYear": 1.5,
+    "timePosted": "November 17, 2022",
+    "sellerName": "Hashem Ali"
+  },
+  {
+    "proId": 1,
+    "categoryName": "Iphone",
+    "name": "Iphone 13",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTl2qAZTFpr3S0y1-OOMwyv5Wasj3IinVsqf7gMkkR9UWPuh_JSovriUsyhgjRjIAuKo&usqp=CAU",
+    "location": "Madaripur,Dhaka",
+    "originalPrice": 44900,
+    "resalePrice": 35890,
+    "usedYear": 1,
+    "timePosted": "October 8, 2022",
+    "sellerName": "Fahim Ahmed"
+  },
+  {
+    "proId": 2,
+    "categoryName": "Oppo ",
+    "name": "Oppo F21 Pro",
+    "img": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Honda-Amaze-230920211606.jpg",
+    "location": "Uttara,Dhaka",
+    "originalPrice": 30900,
+    "resalePrice": 21000,
+    "usedYear": 1.5,
+    "timePosted": "November 17, 2022",
+    "sellerName": "Hashem Ali"
+  },
+  {
+    "proId": 2,
+    "categoryName": "Oppo Phones",
+    "name": "Oppo A12",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJUuw1ivV_8KPeH3h-AoEhr3Xxpi5aey8YY_vEDQgI2eR7lH0QiFEWlR7c8pCBO89A7g&usqp=CAU",
+    "location": "Madaripur,Dhaka",
+    "originalPrice": 44900,
+    "resalePrice": 35890,
+    "usedYear": 1,
+    "timePosted": "October 8, 2022",
+    "sellerName": "Fahim Ahmed"
+  },
+  {
+    "proId": 3,
+    "categoryName": "Vivo",
+    "name": "Vivo Y20",
+    "img": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "location": "Bongshal, Dhaka",
+    "originalPrice": 25000,
+    "resalePrice": 1500,
+    "usedYear": 1.8,
+    "timePosted": "August 10, 2022",
+    "sellerName": "Shamshu"
+  },
+  {
+    "proId": 3,
+    "categoryName": "Vivo",
+    "name": "vivo-x70-pro-plus",
+    "img": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "location": "Shahvag, Dhaka",
+    "originalPrice": 25999,
+    "resalePrice": 17980,
+    "usedYear": 2,
+    "timePosted": "September 19, 2022",
+    "sellerName": "Abdul Malek"
+  },
+  {
+    "proId": 4,
+    "categoryName": "Xiaomi Phones",
+    "name": "Xiaomi 12X",
+    "img": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "location": "Vanugas, Kamalgonj",
+    "originalPrice": 51900,
+    "resalePrice": 40500,
+    "usedYear": 1.2,
+    "timePosted": "October 28, 2022",
+    "sellerName": "Azizur Rahman"
+  },
+  {
+    "proId": 4,
+    "categoryName": "Xiaomi Phones",
+    "name": "Xiaomi 11T Pro",
+    "img": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "location": "Adkhani, Adompur",
+    "originalPrice": 64900,
+    "resalePrice": 54990,
+    "usedYear": 1.4,
+    "timePosted": "July 8, 2022",
+    "sellerName": "Majarul Alom"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "category_id": 1,
+    "name": "TATA",
+    "image": "https://img.etimg.com/thumb/msid-78032971,width-1200,height-900,imgsize-181822,overlay-etmarkets/photo.jpg"
+  },
+  {
+    "category_id": 2,
+    "name": "Mercedes",
+    "name": "MERCEDES",
+    "image": "https://imgk.timesnownews.com/story/Mercedes_showroom_repr.jpg"
+  },
+  {
+    "category_id": 3,
+    "name": "TASLa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoZg-aKGAx4etG82SFSp4k9eH1GXNzYLPnA&usqp=CAU"
+  },
+  {
+    "category_id": 4,
+    "name": "Ferrari",
+    "image": "https://i.ibb.co/G07Djd0/xiaomi.png"
+  }
+]
