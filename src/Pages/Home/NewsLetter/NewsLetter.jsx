@@ -2,7 +2,7 @@ import React from "react";
 
 const NewsLetter = () => {
   return (
-    <section className="bg-white dark:bg-gray-900">
+    <section className="bg-primary dark:bg-gray-900">
       <div className="container px-4 py-16 mx-auto lg:flex lg:items-center lg:justify-between">
         <h2 className="text-3xl font-semibold tracking-tight text-pink-900 xl:text-4xl dark:text-white">
           please jon BUILDING CARS FOR EVERY LIFESTYLE.....
